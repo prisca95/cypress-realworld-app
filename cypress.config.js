@@ -23,7 +23,7 @@ module.exports = defineConfig({
     mobileViewportWidthBreakpoint: 414,
     coverage: false,
     codeCoverage: {
-      url: "http://localhost:3001/__coverage__",
+      url: "http://localhost:3000/__coverage__",
       exclude: "cypress/**/*.*",
     },
     defaultPassword: process.env.SEED_DEFAULT_USER_PASSWORD,

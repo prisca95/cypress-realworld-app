@@ -74,6 +74,63 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "4R7raDnF7",
+      "uuid": "8ac7136d-c978-4778-a514-9fb384911b72",
+      "firstName": "Manushri",
+      "lastName": "Raj",
+      "username": "Mani",
+      "password": "$2a$10$F28SXMg0hyMRMNvwW3nkQeqH61cLy9G0Gw0VLRloqesLggesZ/Dq6",
+      "balance": 0,
+      "createdAt": "2023-09-04T07:52:56.341Z",
+      "modifiedAt": "2023-09-04T07:52:56.341Z"
+    },
+    {
+      "id": "iT_O_E2KX",
+      "uuid": "86722630-a2c8-4bb8-bf8e-7d9bfdc0a3a0",
+      "firstName": "Abey",
+      "lastName": "Rahim",
+      "username": "Abni",
+      "password": "$2a$10$vvDRXR7mCskT00be6ogV..2QVrpUNp9brcOYDHZLEzw3By.kwr.ES",
+      "balance": 0,
+      "createdAt": "2023-09-04T08:06:03.174Z",
+      "modifiedAt": "2023-09-04T08:06:03.174Z"
+    },
+    {
+      "id": "qYipyWndk",
+      "uuid": "10e07292-f737-4178-9729-88023ef6da68",
+      "firstName": "Abey",
+      "lastName": "Rahim",
+      "username": "Abni",
+      "password": "$2a$10$1KbDz5QGnZVL4.b6Wuv2DuX9Gzxpdfm7DAfaGHoTZNCo50pTp05NK",
+      "balance": 0,
+      "createdAt": "2023-09-04T08:09:13.233Z",
+      "modifiedAt": "2023-09-04T08:09:13.233Z"
+    },
+    {
+      "id": "ydIATsvuz",
+      "uuid": "4546fba3-127b-4977-8488-d3fb63a2219f",
+      "firstName": "Abeyi",
+      "lastName": "Ranin",
+      "username": "Abnin",
+      "password": "$2a$10$uYL34FEPaEuMyU3nzX7iNeotn1Qk1UtDXXgZFy/zCLzs6JrptOHIi",
+      "balance": 0,
+      "createdAt": "2023-09-04T08:11:26.218Z",
+      "modifiedAt": "2023-09-04T08:11:26.218Z"
+    },
+    {
+      "id": "_Lqg-Gyis",
+      "uuid": "809d2730-c380-4bdf-a0f6-d4f4d07608ac",
+      "firstName": "Abeni",
+      "lastName": "Ranin",
+      "username": "Abne",
+      "password": "$2a$10$xgF5U.P7vopE.vq/DKaBk.BjUTgLn6HBlBHN64IQh7O5yO9XahiE2",
+      "email": "abeyi@gmail.com",
+      "phoneNumber": "07053456781",
+      "balance": 0,
+      "createdAt": "2023-09-04T08:34:07.467Z",
+      "modifiedAt": "2023-09-04T08:34:07.467Z"
     }
   ],
   "contacts": [
@@ -253,6 +310,28 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "6HK95UaNC",
+      "uuid": "65d30759-d16c-4df2-a439-4aab4198664b",
+      "userId": "iT_O_E2KX",
+      "bankName": "Access",
+      "accountNumber": "9998887778",
+      "routingNumber": "223344557",
+      "isDeleted": false,
+      "createdAt": "2023-09-04T08:06:10.515Z",
+      "modifiedAt": "2023-09-04T08:06:10.515Z"
+    },
+    {
+      "id": "p3LQDKx1E",
+      "uuid": "fac9479d-626c-4007-89eb-3d4d0181d4a8",
+      "userId": "_Lqg-Gyis",
+      "bankName": "Access",
+      "accountNumber": "9998887779",
+      "routingNumber": "223344558",
+      "isDeleted": false,
+      "createdAt": "2023-09-04T08:34:20.313Z",
+      "modifiedAt": "2023-09-04T08:34:20.313Z"
     }
   ],
   "transactions": [
